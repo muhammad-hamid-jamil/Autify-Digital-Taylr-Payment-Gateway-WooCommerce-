@@ -14,7 +14,7 @@ Senior Full Stack WordPress / WooCommerce Developer
 - PHP (WooCommerce backend, gateway logic, APIs, refunds, webhooks, 3DS)
 - JavaScript (Classic checkout, Block checkout, wallets, admin screens)
 - CSS (Frontend checkout styles + admin UI)
-- HTML (PHP-rendered views for redirects & 3DS)
+- HTML (PHP-rendered views for redirects & 3DS)  
 - SVG (Payment & wallet icons)
 - Gettext (POT) for translations
 - MySQL (Custom transaction table)
