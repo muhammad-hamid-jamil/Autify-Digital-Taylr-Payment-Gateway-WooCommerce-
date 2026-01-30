@@ -1,4 +1,4 @@
-# Autify Digital – Taylr Payment Gateway (WooCommerce)
+# Autify Digital  Taylr Payment Gateway (WooCommerce)
 
 ## Project Overview
 Autify Digital Taylr is a custom-built WooCommerce payment gateway integrating with Taylr (payments.taylr.io).  
