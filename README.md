@@ -88,3 +88,33 @@ See the `/screenshots` folder for:
 ## Disclaimer
 This repository is a **technical case study** only.
 All implementation details are described without exposing proprietary source code.
+
+screenshots/
+├─ checkout-hosted-payment.png
+├─ checkout-direct-card.png
+├─ apple-pay-checkout.png
+├─ apple-pay-cart.png
+├─ google-pay-checkout.png
+├─ 3ds-authentication.png
+├─ admin-transactions-table.png
+├─ gateway-settings1.png
+├─ gateway-settings2.png
+
+## Screenshots
+
+### Checkout – Payment Methods
+![Hosted Payment](screenshots/checkout-hosted-payment.png)
+![Direct Card](screenshots/checkout-direct-card.png)
+
+### Wallets
+![Apple Pay](screenshots/apple-pay-checkout.png)
+![Apple Pay](screenshots/apple-pay-cart.png)
+![Google Pay](screenshots/google-pay-checkout.png)
+
+### 3DS Authentication
+![3DS Flow](screenshots/3ds-authentication.png)
+
+### Admin
+![Transactions](screenshots/admin-transactions-table.png)
+![Settings](screenshots/gateway-settings1.png)
+![Settings](screenshots/gateway-settings2.png)
